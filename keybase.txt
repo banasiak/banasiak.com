@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/banasiak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.banasiak.com
+  * I am banasiak (https://keybase.io/banasiak) on keybase.
+  * I have a public key with fingerprint F295 8449 4F80 00CB 1908  F870 B033 5678 D4A6 F6CA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f2864a297603ca51cd3a866a67820d2815748b5bd675263477faaa1661ad30b10a",
+            "fingerprint": "f29584494f8000cb1908f870b0335678d4a6f6ca",
+            "host": "keybase.io",
+            "key_id": "b0335678d4a6f6ca",
+            "kid": "0101f2864a297603ca51cd3a866a67820d2815748b5bd675263477faaa1661ad30b10a",
+            "uid": "7e23f8c10ca6ca78bffb2d1f6d009b19",
+            "username": "banasiak"
+        },
+        "service": {
+            "hostname": "www.banasiak.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458757817,
+    "expire_in": 157680000,
+    "prev": "3f8b221b519308cb10f8702f53ab9180bd4494254e4283a746280acf5a7d8077",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJLSFVBGL5aPrqSlVFSQchBK0Ns5rxm7rEyBDF7aCJGRHSd87qert5z
+vef4ykxyoy201EVShAZZJiYUPRQxsiQXUoJFQgQ9JEEXLmyhmEpzRHctWw3zz/d9
+//d/8w9v3uByh2UtrdxqGDvgDhsdulPmOjv3vb+akU21ipGqGb+2emjFqmbZXr+h
+MhIDIIA6i0WesB4kAk4hAlRUjmBRJCLCLFBZDAXEY1mQVREJrMjxCOmEECiKkKgc
+kCEgTAqjGwGfFgqGjIBNZXXWI2Ce9/A6BgAoMvQArGMEZMBxAtVVeSLqouIQi0zL
+YVBzMrG0VMOkNXrxrtr7B/4/+y5blUMay+lYgUAhtAvCsq7LrAp1UQXAQ907QEsL
+BUiJ5rgiAWIZxM/UpDC0Wm4omhOsM8kaoqKiInUdlaqYJZQfDJm2qZjF9LXItoOW
+5LDtquAqXJO9a0Je2QioNEvKKNdClmEGGAlSpGIbjjLkBYwEhCFKYbTKoBHSvIaD
+EJDoJA2cPlo5laTjyCwLZQF6OIDpDwAnf1YXOCJ7IAay6nwPK/Aaz2KOIF5kMSCK
+LhCkYoAQ44xWGjAZiac2iY9KWoYvQOyykMbUvHl9YaMrzO2KjAh3dszl3rR1ffPe
+Pox2fS7IqJmd7npwbGx8f9FcUufVwtYE4QtXNDAZdb30Y1tSUnraWPftupkfOZ1+
+MbFSl3ZPPV1Zbj86me1+NhhXG961UNtzuju6oGfLiPt8Vl7Grtml6Y6mealzT890
+fUsodiji5R9/Pv66M1eu5vrm4Qjaltysz8C8xcLfEyQ3pm5vZvv2a+ii+90n33La
+cNvlhOXB0Wxux8yvx/7+5vhWUbrZE5YOjxyXpk7keKBvsRdl6HHxAwvvT11pvXFu
++oP/VWbH/IvR1Ev9+YfGO36WTtS3J1S03OuNlBr6TsbNNY7fJ/sSlw4f/Lb4ZC65
+cabp+Whda6xld+bGRJ+JuvvoL/yrQW0=
+=56Iv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/banasiak
+
+==================================================================
+
