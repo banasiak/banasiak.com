@@ -4,61 +4,102 @@ https://keybase.io/banasiak
 
 I hereby claim:
 
-  * I am an admin of https://www.banasiak.com
+  * I am an admin of https://banasiak.com
   * I am banasiak (https://keybase.io/banasiak) on keybase.
-  * I have a public key with fingerprint F295 8449 4F80 00CB 1908  F870 B033 5678 D4A6 F6CA
+  * I have a public key ASAtGYlAVxLbw5TUVjCfsntUqX9FE5y6u0BeQYjWx8Op0wo
 
 To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "eldest_kid": "0101f2864a297603ca51cd3a866a67820d2815748b5bd675263477faaa1661ad30b10a",
-            "fingerprint": "f29584494f8000cb1908f870b0335678d4a6f6ca",
+            "eldest_kid": "01202d1989405712dbc394d456309fb27b54a97f45139cbabb405e4188d6c7c3a9d30a",
             "host": "keybase.io",
-            "key_id": "b0335678d4a6f6ca",
-            "kid": "0101f2864a297603ca51cd3a866a67820d2815748b5bd675263477faaa1661ad30b10a",
+            "kid": "01202d1989405712dbc394d456309fb27b54a97f45139cbabb405e4188d6c7c3a9d30a",
             "uid": "7e23f8c10ca6ca78bffb2d1f6d009b19",
             "username": "banasiak"
         },
         "service": {
-            "hostname": "www.banasiak.com",
+            "hostname": "banasiak.com",
             "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1458757817,
-    "expire_in": 157680000,
-    "prev": "3f8b221b519308cb10f8702f53ab9180bd4494254e4283a746280acf5a7d8077",
-    "seqno": 4,
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1488231030,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1488231003,
+        "hash": "0e2615d8f035502e9f8318b1af9114653fd53a967e218fd8327019dc624785b160dc8553a30bb8caea5b9a212c9368c45a076c43409195875fba485204bbf82e",
+        "seqno": 928165
+    },
+    "prev": "1963521ea1a86f46e296c7cdc63aba9d5c391a0f8e9462d15944ba4d5aa03069",
+    "seqno": 22,
     "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.51
-Comment: https://keybase.io/crypto
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLRmJQFcS28OU1FYwn7J7VKl/RROcurtAXkGI1sfDqdMKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmQxOTg5NDA1NzEyZGJjMzk0ZDQ1NjMwOWZiMjdiNTRhOTdmNDUxMzljYmFiYjQwNWU0MTg4ZDZjN2MzYTlkMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmQxOTg5NDA1NzEyZGJjMzk0ZDQ1NjMwOWZiMjdiNTRhOTdmNDUxMzljYmFiYjQwNWU0MTg4ZDZjN2MzYTlkMzBhIiwidWlkIjoiN2UyM2Y4YzEwY2E2Y2E3OGJmZmIyZDFmNmQwMDliMTkiLCJ1c2VybmFtZSI6ImJhbmFzaWFrIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJiYW5hc2lhay5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4ODIzMTAzMCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg4MjMxMDAzLCJoYXNoIjoiMGUyNjE1ZDhmMDM1NTAyZTlmODMxOGIxYWY5MTE0NjUzZmQ1M2E5NjdlMjE4ZmQ4MzI3MDE5ZGM2MjQ3ODViMTYwZGM4NTUzYTMwYmI4Y2FlYTViOWEyMTJjOTM2OGM0NWEwNzZjNDM0MDkxOTU4NzVmYmE0ODUyMDRiYmY4MmUiLCJzZXFubyI6OTI4MTY1fSwicHJldiI6IjE5NjM1MjFlYTFhODZmNDZlMjk2YzdjZGM2M2FiYTlkNWMzOTFhMGY4ZTk0NjJkMTU5NDRiYTRkNWFhMDMwNjkiLCJzZXFubyI6MjIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAcEHqMaG4RPP3hULlWVTNhLxtCuaxSJxdu3BiuclSlhOiuxU+bahNtm3jKyprmeVYwMZvEDuI3nSIkBgTEPYRCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN9rfdo+SIOfyX0UWxZ5IWgmDujHFvHLb/fpuN2AnX3Oo3RhZ80CAqd2ZXJzaW9uAQ==
 
-yMIkAnicrVJLSFVBGL5aPrqSlVFSQchBK0Ns5rxm7rEyBDF7aCJGRHSd87qert5z
-vef4ykxyoy201EVShAZZJiYUPRQxsiQXUoJFQgQ9JEEXLmyhmEpzRHctWw3zz/d9
-//d/8w9v3uByh2UtrdxqGDvgDhsdulPmOjv3vb+akU21ipGqGb+2emjFqmbZXr+h
-MhIDIIA6i0WesB4kAk4hAlRUjmBRJCLCLFBZDAXEY1mQVREJrMjxCOmEECiKkKgc
-kCEgTAqjGwGfFgqGjIBNZXXWI2Ce9/A6BgAoMvQArGMEZMBxAtVVeSLqouIQi0zL
-YVBzMrG0VMOkNXrxrtr7B/4/+y5blUMay+lYgUAhtAvCsq7LrAp1UQXAQ907QEsL
-BUiJ5rgiAWIZxM/UpDC0Wm4omhOsM8kaoqKiInUdlaqYJZQfDJm2qZjF9LXItoOW
-5LDtquAqXJO9a0Je2QioNEvKKNdClmEGGAlSpGIbjjLkBYwEhCFKYbTKoBHSvIaD
-EJDoJA2cPlo5laTjyCwLZQF6OIDpDwAnf1YXOCJ7IAay6nwPK/Aaz2KOIF5kMSCK
-LhCkYoAQ44xWGjAZiac2iY9KWoYvQOyykMbUvHl9YaMrzO2KjAh3dszl3rR1ffPe
-Pox2fS7IqJmd7npwbGx8f9FcUufVwtYE4QtXNDAZdb30Y1tSUnraWPftupkfOZ1+
-MbFSl3ZPPV1Zbj86me1+NhhXG961UNtzuju6oGfLiPt8Vl7Grtml6Y6mealzT890
-fUsodiji5R9/Pv66M1eu5vrm4Qjaltysz8C8xcLfEyQ3pm5vZvv2a+ii+90n33La
-cNvlhOXB0Wxux8yvx/7+5vhWUbrZE5YOjxyXpk7keKBvsRdl6HHxAwvvT11pvXFu
-+oP/VWbH/IvR1Ev9+YfGO36WTtS3J1S03OuNlBr6TsbNNY7fJ/sSlw4f/Lb4ZC65
-cabp+Whda6xld+bGRJ+JuvvoL/yrQW0=
-=56Iv
------END PGP MESSAGE-----
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/banasiak
+
+==================================================================
+
+==================================================================
+https://keybase.io/banasiak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://banasiak.org
+  * I am banasiak (https://keybase.io/banasiak) on keybase.
+  * I have a public key ASAtGYlAVxLbw5TUVjCfsntUqX9FE5y6u0BeQYjWx8Op0wo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01202d1989405712dbc394d456309fb27b54a97f45139cbabb405e4188d6c7c3a9d30a",
+            "host": "keybase.io",
+            "kid": "01202d1989405712dbc394d456309fb27b54a97f45139cbabb405e4188d6c7c3a9d30a",
+            "uid": "7e23f8c10ca6ca78bffb2d1f6d009b19",
+            "username": "banasiak"
+        },
+        "service": {
+            "hostname": "banasiak.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1490626057,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1490626026,
+        "hash": "33cd722b8ff6507e2ceb7c817dd6c5bf60db3c9408b53a47a98bd0e5f728820b1e824573ce1fc6e32906de4d6aff31c418aa56e86a850f23d363fde21400b40f",
+        "seqno": 980358
+    },
+    "prev": "d8589f31b994d84e5ad05e9075ab73c4d7a0295ad20ab97ab44f0b2dfcf82a7e",
+    "seqno": 33,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLRmJQFcS28OU1FYwn7J7VKl/RROcurtAXkGI1sfDqdMKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmQxOTg5NDA1NzEyZGJjMzk0ZDQ1NjMwOWZiMjdiNTRhOTdmNDUxMzljYmFiYjQwNWU0MTg4ZDZjN2MzYTlkMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmQxOTg5NDA1NzEyZGJjMzk0ZDQ1NjMwOWZiMjdiNTRhOTdmNDUxMzljYmFiYjQwNWU0MTg4ZDZjN2MzYTlkMzBhIiwidWlkIjoiN2UyM2Y4YzEwY2E2Y2E3OGJmZmIyZDFmNmQwMDliMTkiLCJ1c2VybmFtZSI6ImJhbmFzaWFrIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJiYW5hc2lhay5vcmciLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MDYyNjA1NywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkwNjI2MDI2LCJoYXNoIjoiMzNjZDcyMmI4ZmY2NTA3ZTJjZWI3YzgxN2RkNmM1YmY2MGRiM2M5NDA4YjUzYTQ3YTk4YmQwZTVmNzI4ODIwYjFlODI0NTczY2UxZmM2ZTMyOTA2ZGU0ZDZhZmYzMWM0MThhYTU2ZTg2YTg1MGYyM2QzNjNmZGUyMTQwMGI0MGYiLCJzZXFubyI6OTgwMzU4fSwicHJldiI6ImQ4NTg5ZjMxYjk5NGQ4NGU1YWQwNWU5MDc1YWI3M2M0ZDdhMDI5NWFkMjBhYjk3YWI0NGYwYjJkZmNmODJhN2UiLCJzZXFubyI6MzMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAHbjwIwURD3e/QnUdcE5wbhhMXGl9MednALezYI8/MVjF0OFpDYOPcDNogQg7LmF81Rr7e6xWJ5KQKpcN1Kh1DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINFE+pnwyCFqWjhdSwV6XaZCnBp11sLkjdRSdrlqanldo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
