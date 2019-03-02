@@ -108,3 +108,59 @@ View my publicly-auditable identity here: https://keybase.io/banasiak
 
 ==================================================================
 
+==================================================================
+https://keybase.io/banasiak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://banasiak.dev
+  * I am banasiak (https://keybase.io/banasiak) on keybase.
+  * I have a public key ASDfuoqybFu5eM9rEq3sn_TBczmBUNr31Yn_U8k9qOACaQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202d1989405712dbc394d456309fb27b54a97f45139cbabb405e4188d6c7c3a9d30a",
+      "host": "keybase.io",
+      "kid": "0120dfba8ab26c5bb978cf6b12adec9ff4c173398150daf7d589ff53c93da8e002690a",
+      "uid": "7e23f8c10ca6ca78bffb2d1f6d009b19",
+      "username": "banasiak"
+    },
+    "merkle_root": {
+      "ctime": 1551495137,
+      "hash": "9b619df111230e0a75d3b013d4ae26ad2fbcd6c82409394f55f15205ab6ef8d1a3b7e4baaf6a9b7869babcb9611c54a4f56fc2ca35f96d3f863035902fd82d22",
+      "hash_meta": "fcccadc0ad9f7a0e8dca619319dfffed1c5aa5544e5ced819a5382cafe5d9403",
+      "seqno": 4860939
+    },
+    "service": {
+      "entropy": "E8OYvUfuCOPLX320/297lAM/",
+      "hostname": "banasiak.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1551495147,
+  "expire_in": 504576000,
+  "prev": "f791ab2a611de9f5a6207c3ba4d020fd04e8a84e126943922e280b70048af19f",
+  "seqno": 61,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg37qKsmxbuXjPaxKt7J/0wXM5gVDa99WJ/1PJPajgAmkKp3BheWxvYWTESpcCPcQg95GrKmEd6fWmIHw7pNAg/QToqE4SaUOSLigLcASK8Z/EIPQcs5DgFWoN/uPHWyA4pumQtIP4f1qTU2tQzrtRG58bAgHCo3NpZ8RAhNMRy/Gqp4hSXR+yU8iUsNH/XxGgVoGsoHKIaXwiD8rlfniXTEmY9LzZYWmFMC7QqbzC1wP9gyQRGTsmkVDLDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPpZClcJqySG+HxWvrOW5I5uLefKUj2FWRUstJaml/llo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/banasiak
+
+==================================================================
