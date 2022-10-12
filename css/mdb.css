@@ -2680,8 +2680,6 @@ ul li {
 .tag,
 .alert,
 .nav .nav-link,
-.navbar-toggler,
-.navbar,
 .breadcrumb,
 .page-item:last-child .page-link,
 .page-item:first-child .page-link,
@@ -2699,11 +2697,11 @@ ul li {
 .card .card-header,
 .nav-tabs,
 img {
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  -ms-border-radius: 2px;
-  -o-border-radius: 2px;
-  border-radius: 2px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  border-radius: 8px;
 }
 
 .popover,
@@ -2958,6 +2956,13 @@ body {
   background-size: cover;
 }
 
+.card-block {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-top: .75rem;
+}
+
 .card-block h5 {
   margin-bottom: 1rem;
   font-size: 1rem;
@@ -2970,7 +2975,7 @@ body {
 }
 
 .card-block p {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .tooltip .tooltip-inner {
@@ -3199,6 +3204,7 @@ blockquote p {
   }
   .h2-responsive {
     font-size: 145%;
+    margin-top: .75rem;
   }
   .h3-responsive {
     font-size: 135%;
@@ -3218,6 +3224,7 @@ blockquote p {
   }
   .h2-responsive {
     font-size: 140%;
+    margin-top: .75rem;
   }
   .h3-responsive {
     font-size: 125%;
@@ -3237,6 +3244,7 @@ blockquote p {
   }
   .h2-responsive {
     font-size: 170%;
+    margin-top: .75rem;
   }
   .h3-responsive {
     font-size: 140%;
@@ -3256,6 +3264,7 @@ blockquote p {
   }
   .h2-responsive {
     font-size: 200%;
+    margin-top: .75rem;
   }
   .h3-responsive {
     font-size: 170%;
@@ -6831,11 +6840,12 @@ button:focus {
 }
 
 .btn {
-  border-radius: 2px;
+  border-radius: 4px;
   border: 0;
   transition: .2s ease-out;
   color: #fff !important;
-  margin: 6px;
+  margin-right: 1em;
+  margin-bottom: .5em;
   white-space: normal !important;
   word-wrap: break-word;
   text-transform: uppercase;
@@ -7823,6 +7833,13 @@ i.btn-danger {
 
 .card {
   border: 0;
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+}
+
+.card .card-title {
+  margin-bottom:.75rem;
+  margin-top: .75rem;
 }
 
 .card .card-title a {
