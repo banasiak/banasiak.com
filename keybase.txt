@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/banasiak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://banasiak.com
+  * I am banasiak (https://keybase.io/banasiak) on keybase.
+  * I have a public key ASAtGYlAVxLbw5TUVjCfsntUqX9FE5y6u0BeQYjWx8Op0wo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01202d1989405712dbc394d456309fb27b54a97f45139cbabb405e4188d6c7c3a9d30a",
+            "host": "keybase.io",
+            "kid": "01202d1989405712dbc394d456309fb27b54a97f45139cbabb405e4188d6c7c3a9d30a",
+            "uid": "7e23f8c10ca6ca78bffb2d1f6d009b19",
+            "username": "banasiak"
+        },
+        "service": {
+            "hostname": "banasiak.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1488231030,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1488231003,
+        "hash": "0e2615d8f035502e9f8318b1af9114653fd53a967e218fd8327019dc624785b160dc8553a30bb8caea5b9a212c9368c45a076c43409195875fba485204bbf82e",
+        "seqno": 928165
+    },
+    "prev": "1963521ea1a86f46e296c7cdc63aba9d5c391a0f8e9462d15944ba4d5aa03069",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLRmJQFcS28OU1FYwn7J7VKl/RROcurtAXkGI1sfDqdMKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmQxOTg5NDA1NzEyZGJjMzk0ZDQ1NjMwOWZiMjdiNTRhOTdmNDUxMzljYmFiYjQwNWU0MTg4ZDZjN2MzYTlkMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmQxOTg5NDA1NzEyZGJjMzk0ZDQ1NjMwOWZiMjdiNTRhOTdmNDUxMzljYmFiYjQwNWU0MTg4ZDZjN2MzYTlkMzBhIiwidWlkIjoiN2UyM2Y4YzEwY2E2Y2E3OGJmZmIyZDFmNmQwMDliMTkiLCJ1c2VybmFtZSI6ImJhbmFzaWFrIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJiYW5hc2lhay5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4ODIzMTAzMCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg4MjMxMDAzLCJoYXNoIjoiMGUyNjE1ZDhmMDM1NTAyZTlmODMxOGIxYWY5MTE0NjUzZmQ1M2E5NjdlMjE4ZmQ4MzI3MDE5ZGM2MjQ3ODViMTYwZGM4NTUzYTMwYmI4Y2FlYTViOWEyMTJjOTM2OGM0NWEwNzZjNDM0MDkxOTU4NzVmYmE0ODUyMDRiYmY4MmUiLCJzZXFubyI6OTI4MTY1fSwicHJldiI6IjE5NjM1MjFlYTFhODZmNDZlMjk2YzdjZGM2M2FiYTlkNWMzOTFhMGY4ZTk0NjJkMTU5NDRiYTRkNWFhMDMwNjkiLCJzZXFubyI6MjIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAcEHqMaG4RPP3hULlWVTNhLxtCuaxSJxdu3BiuclSlhOiuxU+bahNtm3jKyprmeVYwMZvEDuI3nSIkBgTEPYRCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN9rfdo+SIOfyX0UWxZ5IWgmDujHFvHLb/fpuN2AnX3Oo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/banasiak
+
+==================================================================
+
